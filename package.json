@@ -1,0 +1,15 @@
+{
+  "name": "package.json",
+  "version": "10.10.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saghan",
+  "license": "ISC"
+}
